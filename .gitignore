@@ -1,0 +1,20 @@
+/node_modules
+/coverage
+/cli
+/lib
+/peers
+/example
+.vscode
+tailwind.config.js
+index.html
+yarn.lock
+yarn-error.log
+
+# "External" plugins
+/nesting
+
+# Perf related files
+isolate*.log
+
+# Generated files
+/src/corePluginList.js
