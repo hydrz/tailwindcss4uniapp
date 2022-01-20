@@ -1,8 +1,8 @@
 /node_modules
 /coverage
 /cli
-/lib
-/peers
+# /lib
+# /peers
 /example
 .vscode
 tailwind.config.js
